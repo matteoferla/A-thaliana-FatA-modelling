@@ -13,6 +13,8 @@ The approach taken was to use PDB:1R3, alter it and energy minimise it.
 * [substrate.pdb](fatA-substrate.pdb) is the substrate bound holoenzyme.
 * [transition.pdb](fatA-transition.pdb) is the transition state.
 
+![bound](bound.png)
+
 ## Footnote on repo
 
 This is not the original repository, which is private as it has multiple further tasks done for this project.
