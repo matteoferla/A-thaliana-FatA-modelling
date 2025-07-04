@@ -13,7 +13,10 @@ The approach taken was to use PDB:1R3, alter it and energy minimise it.
 * [substrate.pdb](fatA-substrate.pdb) is the substrate bound holoenzyme.
 * [transition.pdb](fatA-transition.pdb) is the transition state.
 
+The transition state model is geometrically derived and minimised in a molecular mechanics framework (Rosetta).
+
 ![bound](bound.png)
+
 
 ## Methodology
 
